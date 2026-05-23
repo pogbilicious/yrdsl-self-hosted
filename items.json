@@ -1,9 +1,9 @@
 [
   {
-    "id": "sample-01",
-    "title": "Replace me with your first item",
-    "price": 25,
-    "tags": ["replace-this"],
+    "id": "Table",
+    "title": "Table",
+    "price": 15,
+    "tags": [""],
     "added": "2026-04-20",
     "description": "Delete this entry and add your own. Drop photos in public/photos/ and reference them as \"photos/your-photo.jpg\" (relative path, no leading slash).",
     "reserved": null
